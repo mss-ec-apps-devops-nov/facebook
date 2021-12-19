@@ -1,2 +1,2 @@
 This is stringutills file
-This file is update with java chanages
+This file is update
